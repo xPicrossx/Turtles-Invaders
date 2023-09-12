@@ -1,0 +1,17 @@
+body {
+    margin: 0
+}
+
+#main {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-image: url(Turtles/Background.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#loading button, #loading img {
+height: 250px;
+width: 250px
+}
